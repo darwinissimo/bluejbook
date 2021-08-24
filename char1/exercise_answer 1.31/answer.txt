@@ -1,0 +1,7 @@
+Exer(6) 1.31 -> Look at the book you are reading right now. Is it an object or a
+                class? If it is a class, name some objects. If it is an object,
+                name its class.
+	
+		R: Acredito que um objeto. Sendo instanciado pela classe livro, ele
+		   terá como atributos: páginas, capa, contra capa, cor, tamanho e etc.
+		   Atributos, esses, que são encontrados em todos os livros (objetos) intanciados pela classe Livro.

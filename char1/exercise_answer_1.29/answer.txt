@@ -1,0 +1,11 @@
+Exer(4) 1.29 -> Write the header for a method named send that has one parameter 
+		of type String, and does not return a value.
+             
+                R: public class Circle {
+			private String name;
+			
+			
+			public void send(String name) {
+			
+			}		
+	 	   }

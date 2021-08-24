@@ -1,0 +1,8 @@
+Exer(3) 1.28 -> What would you have to do to add a new field, for example one
+                called name, to a circle object?
+		
+		R: adicionar aos seus atributos um novo tipo de dado do tipo String
+		   
+		   public class Circle {
+			private String name;
+		}

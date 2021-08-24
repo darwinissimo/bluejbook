@@ -1,0 +1,7 @@
+Exer(7) 1.32 -> Can an object have several different classes? Discuss.
+		
+		R: Não. Um objeto é gerado exclusivamente por sua classe e apenas ela.
+		   Há a possibilidade de duplicar a classe, atribui-la outro nome e gerar
+		   um mesmo objeto através de outra classe com mesmo atributos. Mas não é
+		   de nenhuma forma uma boa prática e nenhum pouco ideal.
+		   

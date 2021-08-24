@@ -1,0 +1,14 @@
+Exer(5) 1.30 -> Write the header for a method named average that has two
+                parameters, both of type int, and returns an int value.
+	
+                R: public class Circle {
+			private String name;
+			
+		        private int constante;
+				
+		
+		   public int average(int valorA, int valorB) {
+			  	return constante;
+			  }
+	
+	 	   }

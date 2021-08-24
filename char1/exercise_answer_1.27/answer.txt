@@ -1,0 +1,10 @@
+Exer(2) 1.27 -> What are the types of the following values?
+                
+	        R: 0 - int
+		   "hello" - String
+		   101 - int
+                   -1 - int
+                   true - boolean
+                   "33" - String?
+                   3.1415 - float
+		

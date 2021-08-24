@@ -1,0 +1,23 @@
+Exer(1) 1.26 -> In this chapter we have mentioned the data types int and
+	        String. Java has more predefined data types.
+                Find out what they are and what they are used for.
+
+		   R:      Java possui suporte a data types primitivos, que incluem - 
+
+		   byte  = armazena valores entre -128 e 127; 
+	  	   short = também tem função de armazenamento de valores, porém,
+		           variando de -32.768 e 32.767; 
+		   int   = preferencia de uso para o amarzenamento de valores inteiros,
+			   negativos ou positivos; 
+	           long  = para valores que execedem o suporte de armazanetamento 
+			   fornecido pelo tipo int; 
+                   float = uso para valores, em suma, decimais; 
+                  double = para valores que excedem o suporte limite do tipo float; 
+                 boolean = tem caráter de true (verdade) ou false (falso); 
+                  e char = guarda um caractere, a exemplo, para caso você deseje salvar apenas 1 letra
+			    em um variável // char a = "A"; //.
+		   
+		   
+	       * Strings - para armazenamento sequêncial de caracteres (texto) em uma variável.
+
+ Non-Primitve Data Types - são chamados de tipos de referência pois eles se referem a objetos.
